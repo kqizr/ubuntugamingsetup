@@ -42,7 +42,7 @@ sudo apt install nvidia-driver-465
 sudo apt install libvulkan1:i386
 
 # Installs the AMD AND INTEL Drivers (Comment them if NVIDIA)
-sudo add-apt-repository ppa:kisak/kiska-mesa
+sudo add-apt-repository ppa:kisak/kisak-mesa
 
 # Refreshes Packages and Upgrades Them
 sudo apt update && sudo apt upgrade
